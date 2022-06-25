@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%; 
+    box-sizing: border-box;
+}
+
+.gallery{
+	padding: 80px ;
+}
+img{
+	max-width: 100%;
+}
+.gallery img{
+	background: rgb(46, 43, 43);
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 15px rgba(248,165,2,255);
+	cursor: pointer;
+    transition: all 300ms;
+}
+.gallery img:hover{
+    transform: scale(1.15);
+}
+/****************************************************/
+h1{
+    
+    color:rgba(248,165,2,255);
+   
+
+ 
+}
+     
+
+    
+/*FLEXBOX*/
+
+
+
+
+
+
+     
+
+
+
+
+
